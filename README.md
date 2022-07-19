@@ -15,7 +15,7 @@ git@github.com:syahdham/studi-kasus.git
 Switch to the repo folder
 
 ~~~
-cd stisla-laravel-base
+cd studi-kasus
 ~~~
 
 Install all the dependencies using composer
