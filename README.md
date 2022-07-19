@@ -5,11 +5,11 @@
 Clone the repository
 
 ~~~
-https://github.com/syahdham/stisla-laravel-base.git
+https://github.com/syahdham/studi-kasus.git
 ~~~
 or
 ~~~
-git@github.com:syahdham/stisla-laravel-base.git
+git@github.com:syahdham/studi-kasus.git
 ~~~
 
 Switch to the repo folder
